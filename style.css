@@ -1,0 +1,15 @@
+body{
+    font-style: italic;
+    font-size: 0.5em;
+    font-family: Montserrat;
+    color:blue
+}
+
+footer{
+    color:rgb(50, 200,155)
+}
+
+header{
+    font-family: Montserrat;
+    background-color: blue;
+}
