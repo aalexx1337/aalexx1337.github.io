@@ -6,10 +6,10 @@ body{
 }
 
 footer{
+    background-color:black;
     color:rgb(50, 200,155)
 }
 
 header{
-    font-family: Montserrat;
-    background-color: blue;
+    font-family: Montserrat
 }
